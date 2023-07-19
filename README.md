@@ -2,15 +2,13 @@
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 
 <h1 align="center">Hi 👋, I'm Vishwas Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right"  alt="Coding" width="450" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishugupta517&label=Profile%20views&color=0e75b6&style=flat" alt="vishugupta517" /> </p> -->
 
-- 🔭 I’m currently working on **React-Redux,React-Animation**
+- 🔭 I’m currently working on **React-Redux,React-Animation Python-Django**
 
-- 🌱 I’m currently learning **Front-end Development**
-
-- 💬 Ask me about **React Js ,Html, Css Framework.**
+- 💬 Ask me about ** MERN Stack, Python-Django **
 
 - 📫 How to reach me **vishugupta517@gmail.com**
 
